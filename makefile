@@ -1,5 +1,5 @@
 CXX = ccache g++
-OUTPUT_FILE=bin/capivara
+OUTPUT_FILE=bin/vixen
 
 define INCLUDE
 	v8/include/
